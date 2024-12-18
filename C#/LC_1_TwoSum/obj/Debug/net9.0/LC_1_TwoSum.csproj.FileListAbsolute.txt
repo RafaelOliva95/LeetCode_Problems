@@ -1,0 +1,15 @@
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.AssemblyInfoInputs.cache
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.AssemblyInfo.cs
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.csproj.CoreCompileInputs.cache
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.sourcelink.json
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\bin\Debug\net9.0\LC_1_TwoSum.exe
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\bin\Debug\net9.0\LC_1_TwoSum.deps.json
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\bin\Debug\net9.0\LC_1_TwoSum.runtimeconfig.json
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\bin\Debug\net9.0\LC_1_TwoSum.dll
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\bin\Debug\net9.0\LC_1_TwoSum.pdb
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.dll
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\refint\LC_1_TwoSum.dll
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.pdb
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\LC_1_TwoSum.genruntimeconfig.cache
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_1_TwoSum\obj\Debug\net9.0\ref\LC_1_TwoSum.dll
