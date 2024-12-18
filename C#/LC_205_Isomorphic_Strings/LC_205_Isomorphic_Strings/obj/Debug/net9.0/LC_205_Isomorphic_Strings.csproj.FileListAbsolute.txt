@@ -1,0 +1,15 @@
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.AssemblyInfoInputs.cache
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.AssemblyInfo.cs
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.csproj.CoreCompileInputs.cache
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.sourcelink.json
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\bin\Debug\net9.0\LC_205_Isomorphic_Strings.exe
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\bin\Debug\net9.0\LC_205_Isomorphic_Strings.deps.json
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\bin\Debug\net9.0\LC_205_Isomorphic_Strings.runtimeconfig.json
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\bin\Debug\net9.0\LC_205_Isomorphic_Strings.dll
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\bin\Debug\net9.0\LC_205_Isomorphic_Strings.pdb
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.dll
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\refint\LC_205_Isomorphic_Strings.dll
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.pdb
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\LC_205_Isomorphic_Strings.genruntimeconfig.cache
+C:\Users\rafantol\Documents\personal_space\LeetCode_Problems\C#\LC_205_Isomorphic_Strings\LC_205_Isomorphic_Strings\obj\Debug\net9.0\ref\LC_205_Isomorphic_Strings.dll
