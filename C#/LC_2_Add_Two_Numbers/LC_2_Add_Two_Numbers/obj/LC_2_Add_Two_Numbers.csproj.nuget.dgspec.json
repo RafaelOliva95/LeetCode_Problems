@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings.csproj": {}
+    "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings.csproj": {
+    "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings.csproj",
-        "projectName": "LC_205_Isomorphic_Strings",
-        "projectPath": "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings.csproj",
+        "projectUniqueName": "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers.csproj",
+        "projectName": "LC_2_Add_Two_Numbers",
+        "projectPath": "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers.csproj",
         "packagesPath": "C:\\Users\\rafantol\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_205_Isomorphic_Strings\\LC_205_Isomorphic_Strings\\obj\\",
+        "outputPath": "C:\\Users\\rafantol\\Documents\\personal_space\\LeetCode_Problems\\C#\\LC_2_Add_Two_Numbers\\LC_2_Add_Two_Numbers\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\rafantol\\AppData\\Roaming\\NuGet\\NuGet.Config"
